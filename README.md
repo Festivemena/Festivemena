@@ -47,7 +47,3 @@ Passionate about building Modular, Scalable Apps and Sites... Proficient in a fe
 <a href="http://www.github.com/Festivemena"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Festivemena&stroke=6366f1&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=6366f1&currStreakLabel=6366f1&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
 <a href="https://github.com/Festivemena" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Festivemena&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/festusmenad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
