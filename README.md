@@ -8,7 +8,7 @@ Passionate about building Modular, Scalable Apps and Sites... Proficient in a fe
 
 * 🌍  I'm based in Delta, NG
 * 🖥️  See my portfolio at [innov8](http://innov8-me.vercel.app)
-* ✉️  You can contact me at [festusmena9@gmail.com](mailto:festusmena9@gmail.com)
+* ✉️  You can contact me at [OxF3stus](mailto: oxfestus@proton.me)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
