@@ -1,7 +1,7 @@
 Hi 👋 My name is Efemena Festus
 ===============================
 
-Web Developer and 3D Web Artist
+Full Stack Developer
 -------------------------------
 
 Passionate about building Modular, Scalable Apps and Sites... Proficient in a few Frameworks like React.js, NextJS, TailwindCSS, NodeJs, Sanity, Framer-motion, React Native and more...
