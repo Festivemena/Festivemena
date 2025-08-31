@@ -1,4 +1,4 @@
-# Hi 👋 My name is Efemena Festus (Festivemena)
+# Hi 👋 My name is Efemena Festus
 
 ## 🚀 Full Stack Developer | Hardware Engineer | Builder  
 
@@ -40,10 +40,10 @@ I love working on products that merge **software and hardware innovation**, leve
 ### 🚀 [Near Studio](https://github.com/Festivemena/NearStudio)  
 An all-in-one **developer toolkit for NEAR Protocol** that simplifies smart contract creation, deployment, and testing — making **Web3 development accessible to beginners**.  
 
-### ♻️ [Binz](https://github.com/Festivemena/Binz)  
+### ♻️ [Binz](https://www.binz.byhavi.tech)  
 A **Smart Waste Management Platform** integrating IoT + AI for real-time waste monitoring, bin usage tracking, and optimized collection management.  
 
-### 🤖 [eXhibot NG](https://github.com/Festivemena/Exhibot-NG)  
+### 🤖 [eXhibot NG](https://www.exhibot.ng)  
 Nigeria’s first **BattleBots-style robotics competition franchise**, building **combat robots (Hobbyweight to Fairyweight)** and an open platform for robotics innovation.  
 
 ---
